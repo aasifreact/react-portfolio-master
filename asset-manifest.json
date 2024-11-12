@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-master/static/css/main.fbc00891.css",
+    "main.js": "/react-portfolio-master/static/js/main.b5bed700.js",
+    "index.html": "/react-portfolio-master/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.fbc00891.css",
+    "static/js/main.b5bed700.js"
+  ]
+}
